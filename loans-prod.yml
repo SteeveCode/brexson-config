@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Brexson Bank loans related prod APIs "
+  contactDetails:
+    name: "Marlon Wayne - Product Owner"
+    email: "marlon@brexsonbank.com"
+  onCallSupport:
+    - (547) 392-4829
+    - (547) 203-0384

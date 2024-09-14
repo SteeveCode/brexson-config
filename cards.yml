@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Brexson Bank cards related APIs "
+  contactDetails:
+    name: "Miles Corn - Product Owner"
+    email: "miles@brexsonbank.com"
+  onCallSupport:
+    - (111) 392-4829
+    - (111) 203-0384

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Brexson Bank loans related local APIs "
+  contactDetails:
+    name: "Pit Bratt - Developer"
+    email: "pit@brexsonbank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Brexson Bank loans related QA APIs "
+  contactDetails:
+    name: "Tom Ray - QA Lead"
+    email: "tom@brexsonbank.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
