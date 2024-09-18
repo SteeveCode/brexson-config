@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Brexson Bank accounts related QA APIs Ja"
+  message: "Welcome to Brexson Bank accounts related QA APIs Jah"
   contactDetails:
     name: "Tom Ray - QA Lead"
     email: "tom@brexsonbank.com"
