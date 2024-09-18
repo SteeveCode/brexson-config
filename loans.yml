@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to Brexson Bank loans related local APIs "
+  message: "Welcome to Brexson Bank loans related local APIs 50"
   contactDetails:
     name: "Pit Bratt - Developer"
     email: "pit@brexsonbank.com"
