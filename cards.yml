@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to Brexson Bank cards related local APIs "
+  message: "Welcome to Brexson Bank cards related local APIs 50"
   contactDetails:
     name: "Miles Corn - Product Owner"
     email: "miles@brexsonbank.com"
